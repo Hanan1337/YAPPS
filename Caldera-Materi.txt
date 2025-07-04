@@ -1,0 +1,105 @@
+### Key Points
+- Caldera is likely a modular blockchain platform focused on enabling developers to launch high-performance, customizable Layer-2 blockchains called Caldera Chains, which are optimistic rollups settling on Ethereum.
+- It seems to empower developers to build scalable decentralized applications (dApps) across various sectors like gaming, DeFi, and NFTs by addressing scalability issues of overcrowded Layer-1 blockchains.
+- Research suggests Caldera has raised significant funding, totaling around $24 million, and is backed by prominent investors like Sequoia Capital and Founders Fund.
+- The evidence leans toward Caldera having a strong ecosystem with over 75 chains, notable projects like ApeChain, and impressive metrics like over 1 billion in total value locked and 550 million transactions.
+
+---
+
+### Introduction to Caldera
+Caldera appears to be a pioneering company in the blockchain space, specializing in providing a rollup-as-a-service platform. This platform helps developers create high-performance, customizable Layer-2 blockchains, known as Caldera Chains, which are designed to settle on Ethereum. These chains aim to solve scalability issues faced by traditional Layer-1 blockchains, offering faster transactions and lower costs.
+
+### Mission and Technology
+The mission of Caldera seems to be empowering developers to build complex dApps without the constraints of overcrowded blockchains. Caldera Chains are optimistic rollups, capable of processing hundreds of transactions per second with sub-second confirmation times. They are highly customizable, with features like address whitelisting and sustainable revenue generation, and are compatible with Ethereum smart contracts, making them easy to develop and deploy.
+
+### Ecosystem and Impact
+Caldera's ecosystem is robust, with over 75 Caldera Chains and notable projects like ApeChain, which is a gaming-focused L3 blockchain using $APE as its native gas token. The platform boasts impressive metrics, including over 1 billion in total value locked, 550 million total transactions, and 17 million unique wallets, indicating significant adoption and impact.
+
+### Funding and Backers
+Research suggests Caldera has raised around $9 million in seed funding from Sequoia Capital and Dragonfly Capital, followed by a $15 million Series A led by Founders Fund, totaling $24 million. This funding underscores the confidence of prominent investors like Lattice Capital and MH Ventures in Caldera's vision.
+
+---
+
+---
+
+### Survey Note: Comprehensive Analysis of Caldera (@Calderaxyz)
+
+This survey note provides a detailed examination of Caldera, a modular blockchain platform associated with the X handle @Calderaxyz, based on available information from official websites, blog posts, social media, and news articles as of July 5, 2025. The analysis aims to cover its origins, technology, ecosystem, funding, and community engagement, offering a holistic view for stakeholders and enthusiasts.
+
+#### Background and Founding
+Caldera was founded in March 2022 by Matt Katz and Parker Jou, with Katz serving as co-founder and Jou as the Chief Technology Officer (CTO). The company's inception was driven by the recognition of a catch-22 in the web3 world: developers across verticals like NFTs, DeFi, and gaming wanted to build complex applications but were limited by the overcrowded nature of existing Layer-1 (L1) blockchains like Ethereum. Initially dubbed "Constellation," Caldera aimed to create rollups for scalable web3 games but expanded its focus to address broader dApp infrastructure needs.
+
+According to their blog, "We started the company when we realized developers wanted to build interesting things on the blockchain. We realized people actually want to build more complex things across a bunch of verticals and in order to unlock the full potential of web3, it’s untenable for it to happen on a single blockchain." This vision underscores their commitment to enabling scalable, high-performance applications.
+
+#### Technology and Features
+Caldera specializes in building high-performance, customizable, and application-specific Layer-2 (L2) blockchains, known as Caldera Chains. These are optimistic rollups that settle on Ethereum, offering several key technical advantages:
+
+- **Speed**: Capable of processing hundreds of transactions per second with sub-second confirmation times, addressing the slow transaction speeds of L1 blockchains.
+- **Customizability**: Features such as address whitelisting, sustainable revenue generation models, and other tailored options allow developers to optimize chains for specific dApp needs.
+- **Ethereum Compatibility**: Runs standard Ethereum Virtual Machine (EVM) smart contract code without modification, ensuring ease of development and deployment for Ethereum developers.
+
+Optimistic rollups assume transactions are valid unless proven otherwise, which enhances throughput and reduces costs compared to L1 processing. This technology is particularly suited for dApps requiring high performance, such as gaming platforms and decentralized finance applications.
+
+#### Ecosystem and Metrics
+Caldera's ecosystem is one of the fastest-growing rollup ecosystems on Ethereum, with over 75 Caldera Chains as of 2025. The platform's impact is evidenced by the following metrics:
+- Total Value Locked (TVL): Over 1 billion
+- Total Transactions: 550 million
+- Unique Wallets: 17 million
+
+Notable projects built on Caldera include:
+- **ApeChain**: A gaming-focused L3 blockchain launched in partnership with ApeCoin and Horizen Labs, utilizing $APE as its native gas token. It offers high performance, ultra-low fees, and tools like a Bridge Interface and Block Explorer for seamless onboarding.
+- **Hychain**: Another project leveraging Caldera's infrastructure, though specific details are less publicly available.
+- **B3**: Mentioned in official communications, likely a gaming or DeFi platform.
+
+These projects demonstrate Caldera's versatility across sectors like gaming, AI, and DeFi, with partnerships enhancing its ecosystem. For example, Caldera's collaboration with Injective for the inEVM platform simplified interoperability, and their support for Plume Network focused on real-world asset (RWA) tokenization.
+
+#### Funding and Investor Backing
+Caldera has secured significant funding, totaling $24 million as of recent reports. The funding breakdown includes:
+- **Seed Funding**: $9 million raised in two rounds led by Sequoia Capital and Dragonfly Capital, with participation from Neo, 1kx, and Ethereal Ventures (reported in February 2023).
+- **Series A**: $15 million raised in July 2024, led by Founders Fund, further solidifying investor confidence.
+
+Prominent backers include Lattice Capital, MH Ventures, Zonff Partners, TrueBridge Capital Partners, and others, reflecting strong support from the venture capital community. This financial backing has enabled Caldera to expand its team and develop the Metalayer, an interoperability ecosystem aimed at simplifying cross-chain application launches.
+
+#### Community Engagement and Social Media Presence
+Caldera's X handle, @Calderaxyz, is active in promoting its ecosystem and partnerships. Recent posts from July 2025 highlight their focus on scalability, with messages like "JUST SCALE IT" and mentions of powering over 50 chains. Examples include:
+- Promotion of B3dotfun, a gaming platform powered by Caldera, offering zero-fee gameplay and cross-chain asset transfers.
+- Announcements of new chains like RCADE, a global game Arbitrum Orbit chain built to support the Revolving Games ecosystem.
+
+The community engagement is further evidenced by replies to posts, with users expressing enthusiasm and asking about integrations, indicating a supportive and active user base. Caldera also maintains a presence on other platforms, including Discord, Telegram, LinkedIn, YouTube, Instagram, and TikTok, fostering a broad community reach.
+
+#### Partnerships and Use Cases
+Caldera's partnerships are central to its ecosystem growth. Notable collaborations include:
+- **ApeCoin and Horizen Labs**: For launching ApeChain, a creator-centric blockchain with native yield and gas-sponsored transactions.
+- **Injective**: For the inEVM platform, simplifying interoperability for Ethereum developers to connect with other major blockchains.
+- **Plume Network**: Supporting the launch of a dedicated RWA-focused L2, integrating asset tokenization and compliance providers.
+
+Use cases span gaming (e.g., ApeChain, Curio), AI (plug-and-play infrastructure for decentralized AI), and DeFi (powering modular exchanges with cross-chain liquidity). An example partnership with Curio, an on-chain gaming studio, showcased Caldera's capabilities, achieving 300 million gas per second with less than 1-second latency, compared to 120 seconds on maxed-out Ethereum blocks.
+
+#### Technical Documentation and Challenges
+While specific technical documentation was not fully accessible in this analysis, available information from their GitBook and blog posts indicates Caldera Chains are built using frameworks like Arbitrum Nitro and Optimism Bedrock. Tutorials on Medium, such as deploying rollups using Caldera on Arbitrum Sepolia testnet, suggest a no-code approach, simplifying the process for developers. However, the exact whitepaper or detailed technical specifications remain less publicly detailed, which may pose a challenge for technical audiences seeking deeper insights.
+
+#### Conclusion
+Caldera (@Calderaxyz) stands as a significant player in the blockchain scalability space, offering a rollup-as-a-service platform that addresses critical limitations of L1 blockchains. With a strong ecosystem, substantial funding, and active community engagement, it is poised to drive mass adoption of web3 technologies. As the industry evolves, Caldera's focus on interoperability through the Metalayer and support for diverse use cases positions it as a leader in the modular blockchain landscape.
+
+**Table: Key Metrics and Partnerships**
+
+| Metric/Partnership | Details |
+|---------------------------|----------------------------------------------|
+| Total Value Locked | Over 1 billion |
+| Total Transactions | 550 million |
+| Unique Wallets | 17 million |
+| Number of Chains | Over 75 |
+| Notable Projects | ApeChain, Hychain, B3 |
+| Seed Funding | $9 million (Sequoia, Dragonfly, others) |
+| Series A Funding | $15 million (Founders Fund, others) |
+| Key Partnerships | ApeCoin, Injective, Plume Network, Curio |
+
+**Sources:**
+- [Caldera Official Website](https://caldera.xyz)
+- [Caldera Blog: Why We Started Caldera](https://caldera.xyz/blog/why-we-started-caldera)
+- [TechCrunch: Caldera raises $9M](https://techcrunch.com/2023/02/13/caldera-raises-9m-from-two-rounds-led-by-sequoia-and-dragonfly-capital/)
+- [CoinDesk: Caldera raises $15M](https://www.coindesk.com/tech/2024/07/24/calderas-rollup-in-a-box-platform-raises-15-million-from-peter-thiels-venture-fund)
+- [Caldera on LinkedIn](https://www.linkedin.com/company/calderaxyz)
+- [ApeChain Announcement](https://caldera.xyz/blog/caldera-partners-with-apecoin-and-horizen-labs-to-launch-apechain)
+- [Medium Article: inEVM Spotlight](https://medium.com/@suryatamrakar395/inevm-spotlight-caldera-xyz-simplifies-interoperability-for-injective-f54969093723)
+- [PitchBook Profile](https://pitchbook.com/profiles/company/519846-31) 
