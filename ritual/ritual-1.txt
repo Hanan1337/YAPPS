@@ -1,0 +1,551 @@
+Any kind of creating?
+
+Segala jenis kreasi?
+
+And set up for themselves. I was mostly.
+
+Dan mengaturnya sendiri. Saya sebagian besar.
+
+I was not really like involved in the high frequency trading part of it.
+
+Saya tidak terlalu terlibat dalam bagian perdagangan frekuensi tinggi itu.
+
+It was most, of course, I was building dashboards that would let the team kind of figure out what's going on chain.
+
+Tentu saja, yang paling penting, saya sedang membangun dasbor yang akan membantu tim memahami apa yang terjadi di rantai pasokan.
+
+So it was basically like ingesting the existing change data?
+
+Jadi pada dasarnya seperti mencerna data perubahan yang ada?
+
+And we basically had this dashboard through which one of the hot contracts right now and like who's interacting?
+
+Dan kami pada dasarnya memiliki dasbor ini yang menampilkan salah satu kontrak panas saat ini dan siapa yang berinteraksi?
+
+Like what are most of the, where are most of the transactions right now going?
+
+Seperti apa sebagian besar, ke mana sebagian besar transaksi saat ini terjadi?
+
+So when you could basically discover, oh, this was an NFT drop where it was like some protocol just launched or some that happened that you would basically like,
+
+Jadi ketika Anda pada dasarnya dapat menemukan, oh, ini adalah peluncuran NFT yang seperti beberapa protokol baru saja diluncurkan atau beberapa hal yang terjadi yang pada dasarnya Anda sukai,
+
+it was basically giving you a change.
+
+itu pada dasarnya memberi Anda perubahan.
+
+So I was mostly like working on those kind of analytics dashboards, which which was kind of my work at blockchain,
+
+Jadi saya lebih banyak mengerjakan dasbor analitik semacam itu, yang merupakan jenis pekerjaan saya di blockchain,
+
+What was really funny though, was I joined there and then the entire bear market kind of started.
+
+Yang benar-benar lucu adalah, saya bergabung di sana dan kemudian seluruh pasar saham mulai melemah.
+
+Like 2 months in Terra collapsed and then after that like FDX collapsed.
+
+Seperti 2 bulan di Terra runtuh dan kemudian setelah itu seperti FDX runtuh.
+
+And then three AC blew up.
+
+Dan kemudian tiga AC meledak.
+
+And it was kind of crazy that Polychain did not really have a outside.
+
+Dan agak gila bahwa Polychain tidak benar-benar memiliki bagian luar.
+
+pretty much whatever that collapsed was not really involved in or had minimal exposure.
+
+hampir semua hal yang runtuh itu tidak benar-benar terlibat atau hanya mendapat paparan minimal.
+
+So everybody in this like, holy **** like what is going on?
+
+Jadi semua orang di sini seperti, astaga seperti apa yang sedang terjadi?
+
+And then at the same time, they were kind of happy because they didn't get hit as hard.
+
+Dan di saat yang sama, mereka juga senang karena tidak terkena pukulan sekeras itu.
+
+Place it there I guess.
+
+Taruh saja di sana, kurasa.
+
+Like entities, right?
+
+Seperti entitas, kan?
+
+At that point they were, they were really involved in.
+
+Pada saat itu mereka benar-benar terlibat.
+
+I mean, Denmark is a really good 'cause you basically find a big that are gonna really pop off once you kind of go into.
+
+Maksudku, Denmark benar-benar bagus karena pada dasarnya Anda akan menemukan hal-hal besar yang akan benar-benar menonjol begitu Anda masuk ke dalamnya.
+
+The next cycle, and I think they did a great job.
+
+Siklus berikutnya, dan saya pikir mereka melakukan pekerjaan dengan baik.
+
+I mean, perhaps do all the people over there.
+
+Maksudku, mungkin semua orang di sana juga begitu.
+
+I wasn't really involved with it, so I wouldn't be able to like talk specifics.
+
+Saya tidak benar-benar terlibat di dalamnya, jadi saya tidak bisa membicarakan hal-hal spesifik.
+
+Good.
+
+Bagus.
+
+No worries.
+
+Jangan khawatir.
+
+Thank you for all those details of those.
+
+Terima kasih atas semua rinciannya.
+
+That's really cool.
+
+Itu sungguh keren.
+
+Kardik.
+
+Jantung.
+
+I don't quite actually. When you joined ritual labs.
+
+Sebenarnya tidak begitu. Waktu kamu bergabung dengan laboratorium ritual.
+
+Would love to learn a little bit more about your background and how you got involved with project.
+
+Ingin sekali mempelajari sedikit lebih banyak tentang latar belakang Anda dan bagaimana Anda terlibat dengan proyek ini.
+
+Sounds good.
+
+Kedengarannya bagus.
+
+I mean actually went to school with.
+
+Maksudku benar-benar bersekolah dengan.
+
+So yeah, small world.
+
+Jadi ya, dunia ini kecil.
+
+The computer sounds there and I also did a bunch of internships I got involved in.
+
+Komputernya terdengar di sana dan saya juga melakukan sejumlah magang yang saya ikuti.
+
+Stuff and then.
+
+Barang-barang lalu.
+
+Afterwards I moved to start up. That was a spin out of BlackBerry quantum system cryptography.
+
+Setelah itu, saya pindah untuk memulai. Itu adalah pengembangan dari kriptografi sistem kuantum BlackBerry.
+
+So that was like the foray into the crypto space.
+
+Jadi itu seperti terjun ke dunia kripto.
+
+And then around 2022 I got into the actual Ethereum crypto space.
+
+Dan kemudian sekitar tahun 2022 saya masuk ke ruang kripto Ethereum yang sebenarnya.
+
+Working on things like pre confirmation so.
+
+Sedang mengerjakan hal-hal seperti pra-konfirmasi.
+
+And then I joined Rachel about like.
+
+Dan kemudian saya bergabung dengan Rachel kira-kira seperti itu.
+
+Till now, 4-5 months ago.
+
+Sampai sekarang, 4-5 bulan yang lalu.
+
+So it's pretty soon or it's pretty recent. Yeah, nice.
+
+Jadi, ini cukup cepat atau baru saja. Ya, bagus.
+
+Yeah, nice.
+
+Ya, bagus.
+
+It's making me look bad.
+
+Itu membuatku terlihat buruk.
+
+I'm like, I traded **** coins, now I'm here and he's like, yeah.
+
+Saya seperti, saya menukarkan koin ****, sekarang saya di sini dan dia seperti, ya.
+
+I mean, it takes both, it takes both kinds, right?
+
+Maksudku, dibutuhkan keduanya, dibutuhkan kedua jenis, benar?
+
+We need a little D Gen.
+
+Kita butuh sedikit D Gen.
+
+We need a little.
+
+Kita butuh sedikit.
+
+Yeah, Crypto Maven.
+
+Ya, Crypto Maven.
+
+OK, cool. And so I guess Kardik, let's hear from you.
+
+Oke, keren. Jadi, Kardik, mari kita dengar pendapatmu.
+
+So what?
+
+Jadi bagaimana?
+
+Other than Arshan's beautiful face that just dropped off, other than Arshan and the rest of the team, I know it's a great team and.
+
+Selain wajah cantik Arshan yang baru saja menghilang, selain Arshan dan seluruh anggota tim, saya tahu ini adalah tim yang hebat dan.
+
+But what?
+
+Tapi apa?
+
+What really attracted you to join this project?
+
+Apa yang sebenarnya membuat Anda tertarik bergabung dengan proyek ini?
+
+That's a great question.
+
+Itu pertanyaan yang bagus.
+
+I think I was actually pretty disillusioned before joining like Mary's PMF and I was working on pre confirmations.
+
+Saya pikir saya sebenarnya cukup kecewa sebelum bergabung dengan PMF Mary dan saya sedang mengerjakan pra-konfirmasi.
+
+That and the maps based generally, which I think had some PMF but it didn't feel as exciting and that's sort of when I got introduced to ritual,
+
+Itu dan peta-peta yang berbasis pada umumnya, yang menurutku memiliki beberapa PMF tapi tidak terasa semenarik itu dan di situlah aku diperkenalkan dengan ritual,
+
+which was like a uniquely positioned blockchain 'cause it actually it didn't try to just extend.
+
+yang seperti blockchain yang diposisikan secara unik karena sebenarnya ia tidak mencoba untuk sekadar memperluas.
+
+I'd love to actually talk through like things like network calls I'm sure we'll get into later in this call,
+
+Saya ingin sekali berbicara tentang hal-hal seperti panggilan jaringan. Saya yakin kita akan membahasnya nanti dalam panggilan ini,
+
+It was just the first time I was actually like finding a possibility to have net new cases to use a blockchain and actually produce real like consumer value,
+
+Itu baru pertama kalinya saya benar-benar menemukan kemungkinan untuk memiliki kasus baru untuk menggunakan blockchain dan benar-benar menghasilkan nilai konsumen yang nyata,
+
+build real products, have real users on them.
+
+membangun produk nyata, memiliki pengguna nyata di dalamnya.
+
+So I think that excited me. And then also just the team and I think the team had an alignment around.
+
+Jadi, saya rasa itu membuat saya bersemangat. Dan juga, tim, dan saya rasa tim sudah punya keselarasan.
+
+Actually building real products that.
+
+Benar-benar membangun produk nyata yang.
+
+Again, go back to just creating that new value, that new use cases, that new features in the crypto space,
+
+Sekali lagi, kembalilah untuk menciptakan nilai baru, kasus penggunaan baru, fitur baru di ruang kripto,
+
+I don't really see that often.
+
+Saya tidak sering melihatnya.
+
+I think now's a good time to maybe talk a little bit more on those specifics.
+
+Saya pikir sekarang saat yang tepat untuk berbicara sedikit lebih lanjut mengenai hal-hal spesifik tersebut.
+
+We talk a lot about expressive compute in the community.
+
+Kami banyak berbicara tentang komputasi ekspresif di komunitas.
+
+And. We believe like this is the core part of the core technical vision behind Ritual Chain.
+
+Dan kami percaya inilah inti dari visi teknis di balik Ritual Chain.
+
+What is?
+
+Apa?
+
+What is expressive compute mean to you as A and?
+
+Apa arti komputasi ekspresif bagi Anda sebagai A dan?
+
+What kind of net new applications do you think it's going to unlock for?
+
+Menurut Anda, jenis aplikasi baru apa saja yang akan dibuka?
+
+For crypto.
+
+Untuk kripto.
+
+It's a good question.
+
+Itu pertanyaan yang bagus.
+
+I think like.
+
+Menurutku seperti itu.
+
+You have to. If you go back to the engineering perspective like blockchain's, technically what they typically do is they to secure the protocols,
+
+Anda harus melakukannya. Jika Anda kembali ke perspektif rekayasa seperti blockchain, secara teknis, yang biasanya mereka lakukan adalah mengamankan protokol,
+
+They replicate computation across different chains, so you might have like 100,000 different nodes are in the world or.
+
+Mereka mereplikasi komputasi di seluruh rantai yang berbeda, jadi Anda mungkin memiliki sekitar 100.000 node yang berbeda di dunia atau.
+
+And you're doing my simple computations.
+
+Dan Anda melakukan perhitungan sederhana seperti saya.
+
+You're doing an addition subtraction, and then you're replicating A computation across like.
+
+Anda melakukan penjumlahan dan pengurangan, lalu Anda mereplikasi perhitungan A di seluruh bagian.
+
+The whole world in all nodes, and that's.
+
+Seluruh dunia dalam semua simpul, dan itu saja.
+
+That's great.
+
+Itu hebat.
+
+It's secure, but it has limitations to how expressive that computation.
+
+Aman, tetapi memiliki keterbatasan pada seberapa ekspresif perhitungannya.
+
+Is all you're doing is additions and subtractions, and it's not as powerful as some of the things.
+
+Yang Anda lakukan hanyalah penambahan dan pengurangan, dan itu tidak sekuat beberapa hal lainnya.
+
+So that comes back to the expressiveness of virtual I think.
+
+Jadi itu kembali lagi ke ekspresi virtual menurut saya.
+
+The one thing that Rachel provides you? Let's say it.
+
+Satu hal yang Rachel berikan padamu? Katakan saja.
+
+It will give one to just like this asynchronous process and we could dive for like details and hours and hours as to why it's actually very hard thing to have network calls inside the blockchain like one of the
+
+Ini akan memberikan satu proses asinkron seperti ini dan kita bisa menyelami detail dan berjam-jam untuk mengetahui mengapa sebenarnya sangat sulit untuk memiliki panggilan jaringan di dalam blockchain seperti salah satu
+
+main reasons being like blockchains go pretty fast so like.
+
+alasan utamanya adalah karena blockchain berjalan sangat cepat.
+
+If you want blocks every two to five seconds, it's really hard to have these like asynchronous processes sequentially together.
+
+Jika Anda menginginkan blok setiap dua hingga lima detik, sangat sulit untuk memiliki proses asinkron seperti ini secara berurutan bersama-sama.
+
+But these expressive forms of computation that in and of themselves everyone has the ability to just go on a browser and put like www.
+
+Namun bentuk-bentuk komputasi ekspresif ini, yang dengan sendirinya setiap orang memiliki kemampuan untuk melakukannya, cukup dengan membuka peramban dan mengetikkan www.
+
+www.google.com, but you don't have blockchain primitives around it.
+
+www.google.com, tetapi Anda tidak memiliki primitif blockchain di sekitarnya.
+
+So the closest thing that you might come to it is like a VPN where you log into AVPN instead of what you're logging into,
+
+Jadi hal yang paling mendekati yang mungkin Anda temui adalah seperti VPN di mana Anda masuk ke AVPN, bukan ke apa yang Anda masuki,
+
+let's say Netflix, and suddenly you get like a set of new movies that you could watch, right?
+
+katakanlah Netflix, dan tiba-tiba Anda mendapatkan sekumpulan film baru yang dapat Anda tonton, bukan?
+
+That's something a lot of people do, but.
+
+Itu adalah sesuatu yang dilakukan banyak orang, tapi.
+
+I think providing the blockchain primitives that give you the ability to one develop an application that is completely self sovereign,
+
+Saya pikir menyediakan primitif blockchain yang memberi Anda kemampuan untuk mengembangkan aplikasi yang sepenuhnya mandiri,
+
+so you're not beholden to let's say very obscure nation stage rules as to like what you can do in a particular web environment,
+
+jadi Anda tidak terikat pada, katakanlah, aturan panggung negara yang sangat tidak jelas tentang apa yang dapat Anda lakukan di lingkungan web tertentu,
+
+you can build these plat.
+
+Anda dapat membangun plat ini.
+
+That you can give to everyone and they can then use these network calls to do more and more interesting things,
+
+Yang dapat Anda berikan kepada semua orang dan mereka kemudian dapat menggunakan panggilan jaringan ini untuk melakukan lebih banyak hal menarik,
+
+Like one of the things I was just talking about recently was that we both like we're both in Canada and classic thing is onboarding on crypt.
+
+Seperti salah satu hal yang baru saja saya bicarakan adalah bahwa kami berdua seperti berada di Kanada dan hal klasiknya adalah pendaftaran di kripto.
+
+Is like sometimes not the easiest process, not the most convenient process.
+
+Seperti terkadang itu bukan proses yang termudah, bukan proses yang paling nyaman.
+
+So we were jamming about a simple use case or something like network calls, which is an expressive component of.
+
+Jadi kami membahas tentang kasus penggunaan sederhana atau sesuatu seperti panggilan jaringan, yang merupakan komponen ekspresif dari.
+
+Our blockchain could be just send these like the way can teach us email addresses and you just have like a ritual email,
+
+Blockchain kami bisa saja mengirimkan ini seperti cara mengajari kami alamat email dan Anda hanya perlu melakukan ritual email,
+
+e-mail. You can send it and then through network calls you can onboard and off board off of ritual, which is like just something you can.
+
+Email. Anda bisa mengirimkannya, lalu melalui panggilan jaringan, Anda bisa bergabung dan keluar dari ritual, yang seperti sesuatu yang bisa Anda lakukan.
+
+Spin up in like 10 minutes.
+
+Berputar dalam waktu sekitar 10 menit.
+
+Not the most secure way to do it, but you could definitely build like a prototype in 10 minutes.
+
+Bukan cara yang paling aman untuk melakukannya, tetapi Anda pasti dapat membangun seperti prototipe dalam 10 menit.
+
+And just have it live.
+
+Dan tayangkan saja secara langsung.
+
+And that's probably the best onboarding experience in crypto.
+
+Dan itu mungkin pengalaman orientasi terbaik dalam kripto.
+
+That's just like one thought of yesterday.
+
+Itu seperti salah satu pikiranku kemarin.
+
+So what?
+
+Jadi bagaimana?
+
+So sorry, why?
+
+Maaf sekali, kenapa?
+
+Why is it that you can spin up?
+
+Mengapa Anda bisa memutarnya ke atas?
+
+A prototype so quickly.
+
+Sebuah prototipe dengan sangat cepat.
+
+What is it about the virtual?
+
+Apa itu virtual?
+
+Developer environment that makes that possible.
+
+Lingkungan pengembang yang memungkinkan hal itu.
+
+Another great question, Arshan. Do you wanna make that or you want me to continue?
+
+Pertanyaan bagus lainnya, Arshan. Kamu mau bikin itu atau aku lanjutin?
+
+Yeah, no, sure. I'll take Steve. The thing with expressive compute and also I, I'm kind of trying to use the term expressive compute and to answer that specifically,
+
+Ya, tidak, tentu. Saya pilih Steve. Soal komputasi ekspresif, dan saya juga, saya sedang mencoba menggunakan istilah komputasi ekspresif dan untuk menjawabnya secara spesifik,
+
+Is that what blockchains have, which is great, is that it's based on this magical computer that like nobody owns and it sort of serves,
+
+Itulah yang dimiliki blockchain, yang hebatnya, adalah bahwa blockchain didasarkan pada komputer ajaib yang tidak dimiliki oleh siapa pun dan semacam melayani,
+
+you know, you can basically write your code, push it to like this smart contract that controls money is basically some.
+
+Anda tahu, pada dasarnya Anda dapat menulis kode Anda, mendorongnya ke seperti kontrak pintar yang mengendalikan uang pada dasarnya adalah beberapa hal.
+
+Whole money.
+
+Uang utuh.
+
+But then you can basically be sure of some certain security aspects of it.
+
+Namun pada dasarnya Anda dapat yakin akan beberapa aspek keamanan tertentu.
+
+And the cool thing with this is that now you have this magically in the sky and like everybody's incentivized to keep it up and everybody's incentivized to.
+
+Dan hal yang keren tentang ini adalah bahwa sekarang Anda memilikinya secara ajaib di langit dan semua orang terdorong untuk meneruskannya dan semua orang terdorong untuk melakukannya.
+
+Use it and the.
+
+Gunakan itu dan.
+
+This is like a very cool primitive to have, but at the same time to have this sort of like permissionless compute.
+
+Ini seperti primitif yang sangat keren untuk dimiliki, tetapi pada saat yang sama memiliki semacam komputasi tanpa izin.
+
+It's not that like the rain theorem today is pretty limited.
+
+Bukan berarti teorema hujan saat ini cukup terbatas.
+
+Pretty much if you take a look at the EDM it's kind of like as powerful as like a 1970s Atari console like or Game Boys.
+
+Kalau Anda perhatikan EDM-nya, kekuatannya seperti konsol Atari atau Game Boys di tahun 1970-an.
+
+Like really ******. It's not paralyzed.
+
+Beneran ******. Nggak lumpuh kok.
+
+It does.
+
+Itu benar.
+
+It's not fast.
+
+Itu tidak cepat.
+
+Doesn't even connect to the Internet.
+
+Bahkan tidak terhubung ke Internet.
+
+It doesn't even operations or anything.
+
+Bahkan tidak ada operasi atau apa pun.
+
+And what ritual does?
+
+Dan ritual apa yang dilakukannya?
+
+Is that like the Ethereum kind of the way that the EDM has been set up?
+
+Apakah itu seperti Ethereum, cara EDM disiapkan?
+
+which is very similar to how normal computers are set up.
+
+yang sangat mirip dengan cara komputer normal diatur.
+
+They basically allocate certain addresses in the address space basically saying hey we do crazy **** and return it back to the EDM.
+
+Mereka pada dasarnya mengalokasikan alamat tertentu di ruang alamat yang pada dasarnya mengatakan, hei kami melakukan hal gila **** dan mengembalikannya ke EDM.
+
+And so this is how you're, for example, like a computer interfaces with the graphical user interface.
+
+Jadi beginilah Anda, misalnya, seperti komputer yang berinteraksi dengan antarmuka pengguna grafis.
+
+I'm sorry, would like a graphics card. There's like certain addresses and like registers that are reserved for like that.
+
+Maaf, saya ingin kartu grafis. Ada alamat dan register tertentu yang dicadangkan untuk itu.
+
+connect to your computer and then you can basically talk to those program and then your program basically gets higher capabilities like very fast matrix multip.
+
+Hubungkan ke komputer Anda dan kemudian pada dasarnya Anda dapat berbicara dengan program tersebut dan kemudian program Anda pada dasarnya mendapat kemampuan lebih tinggi seperti perkalian matriks yang sangat cepat.
+
+Or internet connectivity and all that kind of stuff. And same kind of thing applies to the EDM today.
+
+Atau konektivitas internet dan sebagainya. Dan hal serupa juga berlaku untuk EDM saat ini.
+
+Even on Ethereum you can for example do shot 256 hashing or a bunch of stuff and those are exposed through those addresses,
+
+Bahkan di Ethereum Anda misalnya dapat mel
