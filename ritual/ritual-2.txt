@@ -1,0 +1,501 @@
+akukan hashing shot 256 atau banyak hal dan itu diekspos melalui alamat tersebut,
+
+so. What we are doing is and those addresses are called pre compiled which means that there's like.
+
+Jadi, yang sedang kita lakukan adalah, dan alamat-alamat itu disebut pra-kompilasi, yang artinya seperti.
+
+Compile programs that you include with the EDM and when you call that address it basically goes and does this more complex operation and then kicks back the result tab.
+
+Kompilasi program yang Anda sertakan dengan EDM dan saat Anda memanggil alamat tersebut, ia pada dasarnya melakukan operasi yang lebih rumit dan kemudian menampilkan tab hasil.
+
+And what we're doing is basically extending those to add a whole lot of crazy **** into ritual.
+
+Dan apa yang kami lakukan pada dasarnya memperluasnya dengan menambahkan banyak sekali hal gila ke dalam ritual.
+
+So we basically bringing in any kind of classical model inference.
+
+Jadi pada dasarnya kami menerapkan segala jenis inferensi model klasik.
+
+So you can basically load any Onyx model in your smart contracts and passive getting.
+
+Jadi pada dasarnya Anda dapat memuat model Onyx apa pun ke dalam kontrak pintar dan mendapatkan secara pasif.
+
+And you can pretty much do that with any kind of classical model.
+
+Dan Anda dapat melakukan itu dengan model klasik apa pun.
+
+We have internet connectivity, so your smart contracts can actually call the internet.
+
+Kami memiliki konektivitas internet, sehingga kontrak pintar Anda benar-benar dapat terhubung ke internet.
+
+You can imagine any kind of like Http://request.
+
+Anda dapat membayangkan jenis seperti Http://request.
+
+So if you were to do that in Ethereum today, the smart contract that you have wouldn't be able to off chain service that you would have to set up and your users would have to trust that off chain
+
+Jadi jika Anda melakukan hal itu di Ethereum hari ini, kontrak pintar yang Anda miliki tidak akan dapat menyediakan layanan off-chain yang harus Anda siapkan dan pengguna Anda harus mempercayai layanan off-chain tersebut.
+
+service.
+
+melayani.
+
+So you would have to go on GCP or AWS, create your back end application and then have some watch here that watches very smart contract and then the user would have and that would have made an event and
+
+Jadi Anda harus menggunakan GCP atau AWS, membuat aplikasi back-end Anda, lalu memiliki beberapa pengawasan di sini yang mengawasi kontrak yang sangat pintar dan kemudian pengguna akan memiliki dan itu akan membuat suatu peristiwa dan
+
+then your service.
+
+maka layanan Anda.
+
+From AWS will pick it up your service from AWS will pick it up and then do some kind of a computation and then deliver it back to the your contract.
+
+Dari AWS akan mengambilnya, layanan Anda dari AWS akan mengambilnya lalu melakukan semacam perhitungan lalu mengirimkannya kembali ke kontrak Anda.
+
+which actually for those here who have been around from.
+
+yang sebenarnya untuk mereka yang sudah ada di sini sejak.
+
+The Internet days, that's how cool.
+
+Zaman internet, keren banget.
+
+Style compute. But the thing is, when you use that you have to convince your users to trust your.
+
+Gaya komputasi. Tapi masalahnya, ketika Anda menggunakannya, Anda harus meyakinkan pengguna untuk memercayai Anda.
+
+Trust your ****. Pretty much, yeah.
+
+Percayalah pada dirimu sendiri. Ya, cukup banyak.
+
+Trust my AWS box that is not gonna go down.
+
+Percayalah pada kotak AWS saya yang tidak akan mati.
+
+It's gonna be like, you know, it's gonna do exactly what I'm know advertising it to do.
+
+Ini akan seperti, Anda tahu, ini akan melakukan persis apa yang saya tahu dalam iklannya.
+
+There's no like verification or guarantees. Whereas with Ritual chain now you don't even need that box like directly from your smart contract,
+
+Tidak ada verifikasi atau jaminan. Sedangkan dengan Ritual Chain, Anda bahkan tidak memerlukan kotak itu langsung dari kontrak pintar Anda.
+
+you're gonna be able to just call some.
+
+Anda akan dapat menelepon beberapa orang saja.
+
+Get the results back.
+
+Dapatkan hasilnya kembali.
+
+Or you don't even need to have a on chain keeper service.
+
+Atau Anda bahkan tidak perlu memiliki layanan penjaga rantai.
+
+that makes the current task and the recurring task aspect of it is something that we've already taken care of in the you ritual EDM,
+
+yang membuat tugas saat ini dan aspek tugas berulang adalah sesuatu yang telah kami tangani dalam ritual EDM Anda,
+
+which basically is, you know, you can imagine somet.
+
+yang pada dasarnya, Anda tahu, Anda dapat membayangkan sesuatu.
+
+Like a set timeout in javascript or set interval in javascript where you can just have some task get, you know,
+
+Seperti batas waktu yang ditetapkan dalam javascript atau interval yang ditetapkan dalam javascript di mana Anda bisa mendapatkan beberapa tugas, Anda tahu,
+
+re executed like every.
+
+dieksekusi ulang seperti setiap.
+
+All you have to do is just like initially when you're setting that up, you just have to have enough money in your wallet for those like tasks to occur.
+
+Yang perlu Anda lakukan adalah, seperti pada awalnya ketika Anda mengaturnya, Anda hanya perlu memiliki cukup uang di dompet Anda agar tugas-tugas seperti itu dapat dilakukan.
+
+So if you don't have to schedule anything anymore. So with that.
+
+Jadi, kalau kamu tidak perlu lagi menjadwalkan apa pun, ya sudah.
+
+How did that comes a variety of freaking applications, right?
+
+Kok bisa muncul berbagai macam aplikasi ya?
+
+Becky, we can build something like dollar cost averaging.
+
+Becky, kita dapat membangun sesuatu seperti rata-rata biaya dolar.
+
+That does dollar cost averaging.
+
+Itulah yang disebut rata-rata biaya dolar.
+
+That's like A2 liner know it's basically set this call back up to happen like once every two weeks and just buy this thing for me off of here as well,
+
+Itu seperti A2 liner, tahu itu pada dasarnya mengatur panggilan ini kembali untuk terjadi seperti sekali setiap dua minggu dan membelikan hal ini untuk saya dari sini juga,
+
+For example that like in the so you can't do.
+
+Misalnya seperti di atas, Anda tidak dapat melakukannya.
+
+Patients like that today.
+
+Pasien seperti itu sekarang.
+
+It's just by limiting all these intermediaries, making them pull and seamless.
+
+Hanya dengan membatasi semua perantara ini, membuatnya menarik dan mulus.
+
+Exactly. Animals have the dresses on because like for example, if you're using gelato or chain link and you're an X chain link.
+
+Tepat sekali. Hewan memakai gaun karena misalnya, kalau kamu pakai gelato atau rantai, dan kamu pakai rantai X.
+
+I'm not trying to say anything back. I'm just saying hey.
+
+Aku nggak bermaksud balas ngomong apa-apa. Aku cuma bilang, "Hai."
+
+I love tailoring, but the thing is like you still have to trust their services.
+
+Saya suka menjahit, tetapi masalahnya Anda tetap harus memercayai layanan mereka.
+
+but there there's still the fundamental trust assumption. Like in this case you basically gave trust assumption from the chain itself,
+
+Namun, masih ada asumsi kepercayaan fundamental. Seperti dalam kasus ini, Anda pada dasarnya memberikan asumsi kepercayaan dari rantai itu sendiri,
+
+right? Yeah.
+
+Benar? Ya.
+
+Yeah.
+
+Ya.
+
+Sorry, go ahead. Let's go ahead.
+
+Maaf, silakan. Ayo kita lanjutkan.
+
+Card it goes fast.
+
+Kartu itu melaju cepat.
+
+Yeah, I was gonna say, it's like the scheduled transaction stuff is actually really interesting because a lot of times when are in the space,
+
+Ya, saya ingin mengatakan, ini seperti transaksi terjadwal yang sebenarnya sangat menarik karena sering kali ketika kita berada di ruang tersebut,
+
+really love the space, but they haven't worked on smart contract that smart contracts that often they often you don't even realize that.
+
+sangat menyukai ruang tersebut, tetapi mereka belum mengerjakan kontrak pintar yang kontrak pintar tersebut seringkali Anda bahkan tidak menyadarinya.
+
+This is even like an encumbrance or a thing you cannot do with a traditional like smart contract.
+
+Ini bahkan seperti beban atau hal yang tidak dapat Anda lakukan dengan kontrak pintar tradisional.
+
+It's so like it's so simple that a smart contract should just activate on its own.
+
+Begitulah sederhananya sehingga kontrak pintar seharusnya aktif dengan sendirinya.
+
+It shouldn't be like you shouldn't have to go and run that particular operation every time you want it to run because UX perspective,
+
+Seharusnya tidak seperti Anda tidak perlu menjalankan operasi tertentu setiap kali Anda menginginkannya dijalankan karena perspektif UX,
+
+it's like, why would AUS user like every 10 minutes put on like an alarm clock be like every 10 seconds I gotta send this.
+
+itu seperti, mengapa pengguna AUS seperti setiap 10 menit menyetel alarm seperti setiap 10 detik saya harus mengirim ini.
+
+Command to this for our contract which I have done by the way.
+
+Perintah ini untuk kontrak kita yang sudah saya lakukan.
+
+It's gonna like it's wild it it's taken this long for anyone to use my contract because it's like this is a no brainer.
+
+Ini akan menjadi sangat liar jika butuh waktu yang lama bagi siapa pun untuk menggunakan kontrak saya karena ini seperti hal yang tidak perlu dipikirkan lagi.
+
+Like this is such a bad UX otherwise. And to Arshan's point, it's like to build certain feature sets you have to get out of.
+
+Kalau tidak, ini UX yang buruk sekali. Dan seperti yang Arshan katakan, ini seperti membangun set fitur tertentu yang harus dihilangkan.
+
+The Web 3 primitives, like when you're building a smart contract, that smart contract is not owned by you necessarily.
+
+Primitif Web 3, seperti saat Anda membuat kontrak pintar, kontrak pintar tersebut belum tentu menjadi milik Anda.
+
+I could build a smart contract and transfer us just the entity that lives.
+
+Saya dapat membuat kontrak pintar dan mentransfer kepada kita hanya entitas yang hidup.
+
+But if I have a scheduler or I've ever keeper that I'm running as an operation, then I own that thing.
+
+Tetapi jika saya mempunyai penjadwal atau saya pernah mencatat bahwa saya menjalankan suatu operasi, maka saya memiliki benda itu.
+
+And so it's not necessarily web three either.
+
+Jadi belum tentu itu adalah web tiga.
+
+So it's have a fully Web 3 smart contract that can give you the full breadth of functionality.
+
+Jadi, ia memiliki kontrak pintar Web 3 yang lengkap yang dapat memberi Anda fungsionalitas yang lengkap.
+
+You cannot do right now. Not that like it would take more infrastructure to really cool part.
+
+Anda tidak bisa melakukannya sekarang. Bukan berarti butuh lebih banyak infrastruktur untuk benar-benar mendinginkan bagian tersebut.
+
+So are some of these.
+
+Begitu juga beberapa di antaranya.
+
+Features are they?
+
+Apa saja fiturnya?
+
+I don't know being developed or are they developed to?
+
+Saya tidak tahu apakah sudah dikembangkan atau belum?
+
+Meet the expectations of, let's say, a Web 2 developer.
+
+Memenuhi harapan, katakanlah, seorang pengembang Web 2.
+
+Some of the things that you say, like it's taking so long to get this off the line, is it gonna make like the experience,
+
+Beberapa hal yang Anda katakan, seperti butuh waktu lama untuk menyelesaikan ini, apakah ini akan membuat pengalaman,
+
+new types of devs or new types of applications that are expected in Web 2?
+
+jenis pengembang baru atau jenis aplikasi baru yang diharapkan di Web 2?
+
+Is that something that.
+
+Apakah itu sesuatu yang.
+
+We're we're working towards.
+
+Kita sedang bekerja menuju ke sana.
+
+Just kinda curious to hear your thought.
+
+Hanya ingin tahu pendapat Anda.
+
+So I can take a stab at that, but pretty much like we're now that we have you still have the blockchain,
+
+Jadi saya bisa mencobanya, tapi seperti sekarang kita masih memiliki blockchain,
+
+So every for your transactions to settle still takes like one block time for it to settle.
+
+Jadi setiap transaksi Anda akan diselesaikan dan masih memerlukan waktu satu blok untuk diselesaikan.
+
+And I mean, yes, blockchains generally are moving towards becoming just faster with every single block time.
+
+Dan maksud saya, ya, blockchain secara umum bergerak ke arah menjadi lebih cepat setiap kali ada satu blok yang dikerjakan.
+
+But in our specific case, for example for our network calls, we are trying to build such that we can basically get an endpoint latency of as close to a web to experience as possible.
+
+Namun dalam kasus spesifik kami, misalnya untuk panggilan jaringan, kami mencoba membangun sedemikian rupa sehingga pada dasarnya kami bisa mendapatkan latensi titik akhir yang sedekat mungkin dengan pengalaman web.
+
+So from the moment that I submit my transaction, my transaction is making a tweet out.
+
+Jadi sejak saya mengirimkan transaksi saya, transaksi saya adalah membuat tweet.
+
+Like let's say for example my agent is like I have a smart contract based agent that actually wakes itself up every like 20 minutes and it wants to tweet.
+
+Misalnya saja agen saya seperti saya punya agen berbasis kontrak pintar yang benar-benar bangun sendiri setiap 20 menit dan ingin membuat tweet.
+
+Something.
+
+Sesuatu.
+
+We basically want that to happen as close to a Web 2 experience as possible.
+
+Pada dasarnya kami ingin hal itu terjadi sedekat mungkin dengan pengalaman Web 2.
+
+So it basically comes down to how you optimize for the happy path of the actual HTTP call being.
+
+Jadi pada dasarnya tergantung pada bagaimana Anda mengoptimalkan jalur yang tepat untuk panggilan HTTP yang sebenarnya.
+
+The transaction is even inserted in the map pool and not.
+
+Transaksinya malah dimasukkan ke dalam kumpulan peta dan tidak.
+
+Necessarily like put in a block.
+
+Tentu saja seperti menaruhnya di blok.
+
+So we are thinking about that in terms of the end to end latency of things and we have solutions for it.
+
+Jadi kami memikirkannya dalam konteks latensi ujung ke ujung dan kami punya solusi untuk itu.
+
+It's still like in the developments that we're basically like trying to.
+
+Itu masih seperti dalam perkembangannya, kami pada dasarnya seperti mencoba untuk.
+
+Discuss different kind of side paths and all the web 3 design is that there's like many other properties that you're trying to maintain.
+
+Diskusikan berbagai jenis jalur samping dan semua desain web 3 yang mana ada banyak properti lain yang ingin Anda pertahankan.
+
+As opposed to in the case of web two, you basically have.
+
+Berbeda dengan kasus web dua, pada dasarnya Anda punya.
+
+You don't have to care about this properties as much 'cause everything's kind of like owned by you and permission,
+
+Anda tidak perlu terlalu peduli dengan properti ini karena semuanya seperti milik Anda dan memiliki izin,
+
+all that kind of stuff over here we have to make with a bunch more.
+
+semua hal semacam itu di sini harus kita buat dengan lebih banyak lagi.
+
+That's what we're trying.
+
+Itulah yang sedang kami coba.
+
+Ideal scenario, soon as you submit your transaction that's supposed to be making a tweet with a web 2 like latency that we should go out.
+
+Skenario idealnya, segera setelah Anda mengirimkan transaksi yang seharusnya membuat tweet dengan latensi seperti web 2 yang harus kita keluarkan.
+
+Plus minus a bunch of network OPS maybe.
+
+Plus minus sejumlah OPS jaringan mungkin.
+
+OK, cool. I think this is actually a good segue to some of the community questions.
+
+Oke, keren. Saya rasa ini sebenarnya transisi yang bagus ke beberapa pertanyaan komunitas.
+
+Else to add there.
+
+Ada hal lain yang perlu ditambahkan di sana.
+
+I think one thing that network calls really helps you do.
+
+Saya pikir salah satu hal yang disebut jaringan benar-benar dapat membantu Anda lakukan.
+
+Is it gonna bridge a lot of web to invite through experiences like just even like on this call I was thinking like what you could have is I could sell access to my Twitter account for the next hour
+
+Apakah ini akan menjembatani banyak web untuk mengundang melalui pengalaman seperti pada panggilan ini saya berpikir seperti apa yang bisa Anda miliki adalah saya dapat menjual akses ke akun Twitter saya selama satu jam ke depan
+
+and any.
+
+dan apa saja.
+
+And just tweet from my account like a meme thing that I'm thinking through.
+
+Dan cukup tweet dari akun saya seperti meme yang sedang saya pikirkan.
+
+But like there's just you could think like that's just something I thought about right now.
+
+Tapi seperti ada yang bisa Anda pikirkan seperti itu saja yang saya pikirkan saat ini.
+
+There's so many different use cases that get unlocked, they could just do it right away.
+
+Ada begitu banyak kasus penggunaan berbeda yang bisa dibuka, mereka bisa langsung melakukannya.
+
+So I bet Elmo's Twitter account is gonna just put that in.
+
+Jadi saya yakin akun Twitter Elmo akan menuliskannya.
+
+yeah.
+
+Ya.
+
+So instead of getting hacked, just sell it off. Awesome.
+
+Jadi, daripada diretas, mending jual saja. Keren.
+
+cool.
+
+Dingin.
+
+I think the community did have a lot of questions on it.
+
+Saya pikir masyarakat memiliki banyak pertanyaan tentangnya.
+
+Error call so.
+
+Kesalahan menyebut demikian.
+
+Let's hear from them now.
+
+Mari kita dengarkan mereka sekarang.
+
+This one comes from Hong Tao. I think Hong Tao's asked some pretty great questions in the past and we all really like this one.
+
+Yang ini dari Hong Tao. Saya rasa Hong Tao pernah mengajukan beberapa pertanyaan yang cukup bagus sebelumnya, dan kami semua sangat menyukai yang ini.
+
+So I'll read it out loud.
+
+Jadi saya akan membacanya keras-keras.
+
+All sidecar also supports chaining multiple HTTP calls.
+
+Semua sidecar juga mendukung penggabungan beberapa panggilan HTTP.
+
+How does virtual handle atomicity and failure in that case?
+
+Bagaimana virtual menangani atomicity dan kegagalan dalam kasus tersebut?
+
+if a second API call depends on data from the 1st and it fails or times out?
+
+jika panggilan API kedua bergantung pada data dari yang pertama dan gagal atau kehabisan waktu?
+
+What can the entire transaction?
+
+Apa yang bisa menjadi keseluruhan transaksi?
+
+The entire transaction revert.
+
+Seluruh transaksi dikembalikan.
+
+Is there time?
+
+Apakah ada waktu?
+
+Is there a time limit for these network calls to run a slow external API from selling block inclusion?
+
+Apakah ada batas waktu untuk panggilan jaringan ini untuk menjalankan API eksternal yang lambat dari penjualan penyertaan blok?
+
+I remember Cardi Q were really excited by this question.
+
+Saya ingat Cardi Q sangat bersemangat dengan pertanyaan ini.
+
+So you wanna wanna take a stab at it?
+
+Jadi Anda ingin mencobanya?
+
+Yeah, sure.
+
+Ya, tentu.
+
+I think that great question by the way and it's like a part of the technical like the reason I love this question so much is because the technical architecture of how we actually design network calls the surrounding the
+
+Saya pikir itu pertanyaan yang bagus dan itu seperti bagian dari teknis, alasan saya sangat menyukai pertanyaan ini adalah karena arsitektur teknis tentang bagaimana kita benar-benar merancang jaringan memanggil yang mengelilingi
+
+limitations of what he's raising, which is like how.
+
+keterbatasan dari apa yang dia ajukan, seperti bagaimana.
+
+Can you possibly change to network calls?
+
+Bisakah Anda mengubahnya ke panggilan jaringan?
+
+And the truth isn't a singular transaction.
+
+Dan kebenaran bukanlah transaksi tunggal.
+
+You can't.
+
+Kamu tidak bisa.
+
+You can chain them in thought through processes of other mechanisms of constructing Dags and chaining network calls.
+
+Anda dapat merangkainya dalam pikiran melalui proses mekanisme lain dalam membangun Dag dan merangkai panggilan jaringan.
+
+But generally speaking.
+
+Namun secara umum.
+
+You wouldn't be able to have two never calls back-to-back.
+
+Anda tidak akan bisa menerima dua panggilan tidak pernah berturut-turut.
+
+And the reason that fundamentally comes down to the ability and the ability to simulate the space of possibilities or network call and that's a single operation.
+
+Dan alasannya pada dasarnya bermuara pada kemampuan dan kepiawaian untuk mensimulasikan ruang kemungkinan atau panggilan jaringan dan itu adalah operasi tunggal.
+
+So that operation has an input, let's say what network call you're about to make, and then it returns an output which is like the results of that error.
+
+Jadi 
