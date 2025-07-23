@@ -1,0 +1,555 @@
+operasi itu memiliki masukan, katakanlah panggilan jaringan apa yang hendak Anda buat, lalu mengembalikan keluaran yang seperti hasil kesalahan tersebut.
+
+Call and then you have to use the results of that error call to somehow.
+
+Panggil dan kemudian Anda harus menggunakan hasil panggilan kesalahan itu entah bagaimana.
+
+Predetermine what?
+
+Menentukan terlebih dahulu apa?
+
+The input to the second network call will be and unless the user explicit network calls, they're gonna do beforehand.
+
+Input untuk panggilan jaringan kedua akan menjadi dan kecuali pengguna melakukan panggilan jaringan secara eksplisit, mereka akan melakukannya terlebih dahulu.
+
+If you wanna do that computation as part of like a transaction execution on the EVM or Ritual's virtual machine,
+
+Jika Anda ingin melakukan perhitungan itu sebagai bagian dari eksekusi transaksi pada EVM atau mesin virtual Ritual,
+
+then you would have to estimate all possibilities and.
+
+maka Anda harus memperkirakan semua kemungkinan dan.
+
+That's infinite.
+
+Itu tak terbatas.
+
+Very intractable to do so. You can do multiple network calls in a block, but for singular transaction you do one network call.
+
+Sangat sulit untuk melakukannya. Anda dapat melakukan beberapa panggilan jaringan dalam satu blok, tetapi untuk transaksi tunggal, Anda hanya perlu melakukan satu panggilan jaringan.
+
+For now. So Arshan, do you want to add to that?
+
+Untuk saat ini. Jadi Arshan, kamu mau menambahkan?
+
+Yes, I was spamming the chat.
+
+Ya, saya melakukan spam chat.
+
+I think that's a great question because.
+
+Saya pikir itu pertanyaan bagus karena.
+
+I. I think Kartik actually touched on all of the specifics of it.
+
+I. Saya pikir Kartik benar-benar menyentuh semua hal spesifiknya.
+
+Something that I would say is.
+
+Sesuatu yang ingin saya katakan adalah.
+
+We can probably explain how we are even doing this like these kind of longer forming operations in a blockchain that has like a,
+
+Kami mungkin bisa menjelaskan bagaimana kami melakukan ini seperti operasi yang terbentuk lebih lama dalam blockchain yang memiliki seperti,
+
+you know, 1.5 second two second block times is that we are basically creating that introducing the notion of a transactions or basically trans.
+
+Anda tahu, waktu blok 1,5 detik dua detik pada dasarnya kita menciptakan pengenalan gagasan transaksi atau pada dasarnya transaksi.
+
+Is that?
+
+Apakah itu?
+
+Take longer they have as part of their execution trace.
+
+Butuh waktu lebih lama sebagai bagian dari jejak eksekusi mereka.
+
+they are calling us SBC.
+
+mereka memanggil kami SBC.
+
+That takes multiple block times to execute.
+
+Itu butuh waktu beberapa blok untuk mengeksekusinya.
+
+So how do we even do that?
+
+Jadi bagaimana kita melakukannya?
+
+How do we even figure out what the states?
+
+Bagaimana kita bisa mengetahui negara bagian mana saja?
+
+Yeah, what the state is going to look like.
+
+Ya, seperti apa keadaannya nanti.
+
+A very kind of brief description of it is the way that we are doing it is soon as a transaction hits a man pool,
+
+Deskripsi singkatnya adalah cara yang kami lakukan adalah segera setelah transaksi mencapai kumpulan orang,
+
+you are able to effectively kind of play that transaction against the state of the world at that time.
+
+Anda dapat secara efektif memainkan transaksi itu terhadap keadaan dunia pada saat itu.
+
+So basically says, hey, the last finalized block and here's like the state of the world programs and money that they contain,
+
+Jadi pada dasarnya mengatakan, hei, blok terakhir yang diselesaikan dan inilah keadaan program dunia dan uang yang dikandungnya,
+
+all that kind of stuff. I'm gonna be able to actually execute that transaction.
+
+Semua hal semacam itu. Saya akan benar-benar bisa menjalankan transaksi itu.
+
+And that basically is what happens when you run a.
+
+Dan pada dasarnya itulah yang terjadi ketika Anda menjalankan a.
+
+E call and Ethereum and basically even before you submit your transaction, while it's typically now actually, you'll run a simulation to basically see if you're transferred to basically just like short circuits early before you even like submitting that
+
+Panggilan E dan Ethereum dan pada dasarnya bahkan sebelum Anda mengirimkan transaksi Anda, meskipun biasanya sekarang sebenarnya, Anda akan menjalankan simulasi untuk pada dasarnya melihat apakah Anda ditransfer ke pada dasarnya seperti korsleting lebih awal sebelum Anda bahkan ingin mengirimkannya
+
+transaction or losing some gas.
+
+transaksi atau kehilangan sejumlah gas.
+
+Money, we basically are going to use the same kind of primitive over there.
+
+Uang, pada dasarnya kita akan menggunakan jenis primitif yang sama di sana.
+
+Slightly modified will be, but what we do is that we simulate the trace of the transaction until it hits that end point,
+
+Akan ada sedikit modifikasi, namun yang kami lakukan adalah mensimulasikan jejak transaksi hingga mencapai titik akhir tersebut,
+
+and then at that. At that point we're like looking a call to a recompile address that is async and then in that.
+
+Dan kemudian pada saat itu. Pada titik itu, kita seperti melihat panggilan ke alamat kompilasi ulang yang asinkron, lalu di sana.
+
+Case we just treat the entire thing differently.
+
+Kasusnya, kita hanya memperlakukan keseluruhannya secara berbeda.
+
+So you basically say the input to that precompile is going to be whatever input that I got from that simulation that I performed.
+
+Jadi pada dasarnya Anda mengatakan masukan untuk prakompilasi itu akan menjadi masukan apa pun yang saya dapatkan dari simulasi yang saya lakukan.
+
+And then past that point we basically just and go on an entirely different route of fulfilled via some kind of like.
+
+Dan kemudian melewati titik itu kita pada dasarnya hanya dan melanjutkan rute yang sepenuhnya berbeda untuk terpenuhi melalui semacam hal seperti itu.
+
+Other executor notes within ritual chain, which is like part of our heterogeneous structure.
+
+Catatan pelaksana lainnya dalam rantai ritual, yang seperti bagian dari struktur heterogen kita.
+
+not every node is running like a rat in Halo rat and like consensus client stuff, you know, there's like different computers,
+
+tidak semua node berjalan seperti tikus di Halo rat dan seperti hal-hal klien konsensus, Anda tahu, ada seperti komputer yang berbeda,
+
+software and some of our executor softwares are going to.
+
+perangkat lunak dan beberapa perangkat lunak pelaksana kami akan...
+
+Be. Effectively fulfilling these kind of jobs.
+
+Jadilah. Secara efektif memenuhi pekerjaan semacam ini.
+
+So they basically like watch on chain?
+
+Jadi pada dasarnya mereka suka menonton di rantai?
+
+They're like hey here's like the async transaction pool.
+
+Mereka seperti, "Hei, ini seperti kumpulan transaksi asinkron."
+
+Here's the job that I have to care about.
+
+Inilah pekerjaan yang harus saya pedulikan.
+
+And then they'll like pick it up.
+
+Dan kemudian mereka akan mengambilnya.
+
+And so with that, we are not even like you don't have to actually.
+
+Jadi dengan itu, kita bahkan tidak seperti Anda yang sebenarnya tidak perlu melakukannya.
+
+It's on my LinkedIn.
+
+Ada di LinkedIn saya.
+
+The when the block is being built and you have, I don't know, maybe a 500 millisecond budget.
+
+Saat blok sedang dibangun dan Anda memiliki, saya tidak tahu, mungkin anggaran 500 milidetik.
+
+Time to build that block.
+
+Waktunya membangun blok itu.
+
+You're not waiting during that entire time with the network call to completely including the results of that transaction whenever that SPC has been fulfilled.
+
+Anda tidak menunggu selama seluruh waktu dengan panggilan jaringan untuk sepenuhnya menyertakan hasil transaksi tersebut setiap kali SPC telah dipenuhi.
+
+So that's good.
+
+Jadi itu bagus.
+
+And with that you basically I'll ask you with that you basically are able to have network calls on chain.
+
+Dan dengan itu pada dasarnya saya akan bertanya kepada Anda apakah Anda pada dasarnya dapat melakukan panggilan jaringan secara berantai.
+
+How do you handle like failures?
+
+Bagaimana Anda menangani kegagalan seperti itu?
+
+So we are like let let's consider the scenario where you can only make one network call per transaction and that case then the error handling becomes simple,
+
+Jadi kita seperti mari kita pertimbangkan skenario di mana Anda hanya dapat membuat satu panggilan jaringan per transaksi dan dalam kasus itu penanganan kesalahan menjadi sederhana,
+
+You just like make you.
+
+Kamu hanya ingin membuat dirimu sendiri.
+
+You just have your operation happen over multiple transactions, and each transaction you just make the network call.
+
+Anda tinggal menjalankan operasi melalui beberapa transaksi, dan untuk tiap transaksi, Anda tinggal melakukan panggilan jaringan.
+
+If it's succeeded, you can move on to the next finalized.
+
+Jika berhasil, Anda dapat melanjutkan ke tahap final berikutnya.
+
+That has your failed network.
+
+Itu jaringan Anda yang gagal.
+
+Also you can just like hash that error and like handle it.
+
+Anda juga dapat membuat hash dari kesalahan tersebut dan menanganinya.
+
+You accordingly.
+
+Anda sesuai dengan itu.
+
+But what another thing that we're trying to do that we thought of is how can we actually have multiple network calls in just one transaction?
+
+Namun hal lain apa yang sedang kami coba lakukan dan kami pikirkan, yaitu bagaimana kami benar-benar dapat memiliki beberapa panggilan jaringan hanya dalam satu transaksi?
+
+And the way that would work is that you can effectively or directed directed acyclic graph of hey, I'm gonna make this.
+
+Dan cara kerjanya adalah Anda dapat secara efektif atau mengarahkan grafik asiklik yang diarahkan, hei, saya akan membuat ini.
+
+Network call, based on its output, I'm gonna make this other network call and then based on this output, I'm gonna make this other network call.
+
+Panggilan jaringan, berdasarkan keluarannya, saya akan membuat panggilan jaringan lainnya, lalu berdasarkan keluaran ini, saya akan membuat panggilan jaringan lainnya.
+
+And then at the end, I'm gonna bring the output and back, you know, feed it back into my.
+
+Dan pada akhirnya, saya akan membawa output dan kembali, Anda tahu, memasukkannya kembali ke dalam.
+
+We can certainly do that when we thought about it.
+
+Kita tentu bisa melakukan itu jika kita memikirkannya.
+
+It's just that it just becomes like a matter of constructing that dags kind of specification.
+
+Hanya saja, hal itu menjadi seperti masalah membangun spesifikasi semacam itu.
+
+Like OK, I'm gonna call this Jason, you know, address and I'm gonna use this like extract this part from this Jason via some sort of like JQ,
+
+Seperti Oke, saya akan menyebut ini Jason, Anda tahu, alamat dan saya akan menggunakan ini seperti mengekstrak bagian ini dari Jason ini melalui semacam JQ,
+
+like query and then feed them, feed it to the next thing and feed it to the next thing It's.
+
+seperti query dan kemudian berikan kepada mereka, berikan kepada hal berikutnya dan berikan kepada hal berikutnya Itu.
+
+And we're thinking about basically implementing that as kind of like the next step.
+
+Dan kami pada dasarnya berpikir untuk menerapkannya sebagai semacam langkah berikutnya.
+
+But then how would you handle like failures and all that stuff in that?
+
+Lalu bagaimana Anda menangani kegagalan dan segala hal semacam itu?
+
+It basically comes down to like how expressive that DAG is so.
+
+Pada dasarnya, ini tergantung pada seberapa ekspresifnya DAG itu.
+
+You can imagine the first version of it would be just happy back up.
+
+Anda dapat membayangkan versi pertama itu akan menjadi cadangan yang membahagiakan.
+
+Only gonna execute until all of these things are successful and the first failure that it sees.
+
+Hanya akan mengeksekusi sampai semua hal ini berhasil dan kegagalan pertama yang terlihat.
+
+It just like short circuits.
+
+Itu seperti hubungan arus pendek.
+
+And then the more expressive versions of it is gonna actually allow you to make decisions.
+
+Dan versi yang lebih ekspresif akan benar-benar memungkinkan Anda membuat keputusan.
+
+But then there's like a sweet spot of what people actually want.
+
+Namun kemudian ada semacam titik manis dari apa yang sebenarnya diinginkan orang.
+
+We can make some programming language of its own, but like at that point it it's overkill, right?
+
+Kita dapat membuat beberapa bahasa pemrograman sendiri, tetapi pada titik itu, itu berlebihan, bukan?
+
+So like I think we're, we're trying to treat that as like how much need is there for it?
+
+Jadi menurut saya, kita mencoba memperlakukannya seperti seberapa besar kebutuhan untuk itu?
+
+And if people are actually building applications that need it, then we'll just bring that into our.
+
+Dan jika orang benar-benar membangun aplikasi yang membutuhkannya, maka kami akan memasukkannya ke dalam.
+
+Chain, it's certainly possible. I mean that's a thing like we're building this new expressive environment and know there is some expectations that's gonna grow organically.
+
+Chain, itu tentu saja mungkin. Maksud saya, itu seperti kita sedang membangun lingkungan ekspresif baru dan tahu ada beberapa ekspektasi yang akan tumbuh secara organik.
+
+We're gonna see things we didn't expect.
+
+Kita akan melihat hal-hal yang tidak kita duga.
+
+Ideally.
+
+Idealnya.
+
+Very cool.
+
+Keren sekali.
+
+Get access to my Twitter account for like the next 5 minutes.
+
+Dapatkan akses ke akun Twitter saya selama 5 menit ke depan.
+
+Find Twitch Space.
+
+Temukan Twitch Space.
+
+We have tweet space.
+
+Kami memiliki ruang tweet.
+
+My God, that's pretty much OK.
+
+Ya Tuhan, itu cukup baik.
+
+Let's we have one more question or two more questions about network calls.
+
+Baiklah, kita punya satu atau dua pertanyaan lagi tentang panggilan jaringan.
+
+And guys, if all of their answers are technically dense for you, don't worry, they're technically dense.
+
+Dan teman-teman, jika semua jawaban mereka secara teknis padat bagi Anda, jangan khawatir, secara teknis memang padat.
+
+For me, we did record in and simplify some of their really in-depth answers later.
+
+Bagi saya, kami mencatat dan menyederhanakan beberapa jawaban mereka yang sangat mendalam nanti.
+
+But I don't think there's any other community out there that really gives this level of detail in what they're building.
+
+Namun saya rasa tidak ada komunitas lain di luar sana yang benar-benar memberikan tingkat detail seperti ini dalam apa yang mereka bangun.
+
+It's really cool that we're doing this.
+
+Keren sekali kita melakukan ini.
+
+OK. The next question.
+
+Oke. Pertanyaan berikutnya.
+
+How does Rituals modular architect coordination between decentralized inference networks and existing smart contract platforms?
+
+Bagaimana arsitek modular Rituals mengoordinasikan antara jaringan inferensi terdesentralisasi dan platform kontrak pintar yang ada?
+
+This one comes from.
+
+Yang ini berasal dari.
+
+Jennifer. I hope I pronounced it right, Jennifer.
+
+Jennifer. Semoga pengucapannya benar, Jennifer.
+
+Cardiac or Arshon? You want to.
+
+Jantung atau Arshon? Anda mau.
+
+Take that one.
+
+Ambil yang itu.
+
+Yeah, good.
+
+Ya, bagus.
+
+I'll get like a very brief response for that and then Karthik can chime in, OK.
+
+Saya akan mendapatkan tanggapan singkat untuk itu dan kemudian Karthik dapat menimpali, oke.
+
+I think the coordination part of this is basically enabled VR async transactions and the fact that we have this heterogeneous set of read sort of jobs that they can plug into the chain,
+
+Saya pikir bagian koordinasi ini pada dasarnya memungkinkan transaksi VR async dan fakta bahwa kami memiliki serangkaian pekerjaan baca heterogen yang dapat mereka masukkan ke dalam rantai,
+
+read some jobs, do the work and like provide it and then the Quest.
+
+membaca beberapa pekerjaan, melakukan pekerjaan dan memberikannya, lalu Quest.
+
+Becomes on how do you how do they get paid?
+
+Menjadi bagaimana Anda bagaimana mereka dibayar?
+
+How do you price things for which we basically have the resonance mechanism and we are basically going through various specifically like a mechanism design questions.
+
+Bagaimana Anda memberi harga pada sesuatu yang pada dasarnya kita memiliki mekanisme resonansi dan pada dasarnya kita membahas berbagai hal khususnya seperti pertanyaan desain mekanisme.
+
+So it's like outside of my wheelhouse to explain like what the properties that it like provides and all that kind of stuff.
+
+Jadi itu seperti di luar bidang keahlian saya untuk menjelaskan seperti apa properti yang disediakannya dan berbagai hal semacam itu.
+
+But the question of coordination mostly becomes how do you price things and how do you match the jobs with people that want to execute them in a way such that it is and?
+
+Namun pertanyaan tentang koordinasi sebagian besarnya adalah bagaimana Anda menentukan harga sesuatu dan bagaimana Anda mencocokkan pekerjaan dengan orang yang ingin melaksanakannya sedemikian rupa sehingga?
+
+That is pretty much like in the works, but I wouldn't be able to specifically talk about it like that.
+
+Itu hampir seperti sedang dalam proses pengerjaan, tetapi saya tidak dapat membicarakannya secara spesifik seperti itu.
+
+In a workings of resident, but as far as the chain itself goes, pretty much if you are any kind of decentralized inference network that can they can allocate,
+
+Dalam cara kerja penduduk, tetapi sejauh rantai itu sendiri berjalan, cukup banyak jika Anda adalah jenis jaringan inferensi terdesentralisasi yang dapat mereka alokasikan,
+
+we do require that like those GPUs have certain.
+
+kami memang memerlukan GPU seperti itu untuk memiliki hal tertentu.
+
+Kind of properties because for any kind of like on chain LLM inference, your GPU must be able to be run inside of a TV and that's not like a really simple thing to get following one of them so
+
+Jenis properti karena untuk semua jenis inferensi LLM pada rantai, GPU Anda harus dapat dijalankan di dalam TV dan itu bukan hal yang sangat sederhana untuk mengikuti salah satunya jadi
+
+pretty much you similar to how.
+
+cukup mirip dengan kamu.
+
+Any executor node right now can basically make a network call, provided that they're running in AG TE they're gonna be able to bring.
+
+Setiap node pelaksana saat ini pada dasarnya dapat membuat panggilan jaringan, asalkan mereka berjalan dalam AG TE yang dapat mereka bawa.
+
+Bring their own hardware and just run our sort of on them.
+
+Membawa perangkat keras mereka sendiri dan menjalankan program kami pada perangkat tersebut.
+
+And the.
+
+Dan.
+
+Exactly. And then.
+
+Tepat sekali. Dan kemudian.
+
+Yeah, that that's how this sort of like coordination happens.
+
+Ya, begitulah cara koordinasi semacam ini terjadi.
+
+This is so distracting.
+
+Ini sungguh mengganggu.
+
+This is crazy, I know.
+
+Ini gila, aku tahu.
+
+Same. That's how I do that.
+
+Sama. Begitulah caraku melakukannya.
+
+We just, we just need calm.
+
+Kita hanya, kita hanya butuh ketenangan.
+
+Calm down.
+
+Tenang.
+
+We can't.
+
+Kita tidak bisa.
+
+We can't answer these questions right now.
+
+Kami tidak dapat menjawab pertanyaan-pertanyaan ini sekarang.
+
+It's too much art gone in the chat.
+
+Terlalu banyak seni yang hilang dalam obrolan.
+
+I kinda like it though.
+
+Meski begitu, saya agak menyukainya.
+
+I don't know it's it is.
+
+Saya tidak tahu, itu memang begitu.
+
+It is nice.
+
+Itu bagus.
+
+Can we get a?
+
+Bisakah kita mendapatkannya?
+
+Can we get a cardiac guys?
+
+Bisakah kita periksa jantung, teman-teman?
+
+Can we get a cardiac in the chat?
+
+Bisakah kita mendapatkan pemeriksaan jantung melalui obrolan?
+
+Let's get a cardiac in the chat.
+
+Yuk, kita ngobrol sambil dengerin detak jantung.
+
+Hey, let's go.
+
+Hei, ayo pergi.
+
+Yes. Yeah, OK.
+
+Ya. Ya, baiklah.
+
+Let's go.
+
+Ayo pergi.
+
+Cardiac if you can.
+
+Jantung jika Anda bisa.
+
+Talk about coordination. Coordination.
+
+Bicara soal koordinasi. Koordinasi.
+
+Yeah, how does Rick look do this, Kartik?
+
+Ya, bagaimana Rick melakukan ini, Kartik?
+
+I'm curious, yeah.
+
+Ya, saya penasaran.
+
+I think you answered him pretty well.
+
+Saya pikir Anda menjawabnya dengan cukup baik.
+
+Yeah, I think that.
+
+Ya, saya pikir begitu.
+
+The one secure part is like network calls go through TE.
+
+Satu bagian yang aman adalah seperti panggilan jaringan yang melalui TE.
+
+I think that's like the big security primitive to think
